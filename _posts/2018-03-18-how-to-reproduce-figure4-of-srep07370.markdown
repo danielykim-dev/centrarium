@@ -84,7 +84,10 @@ pip install numpy matplotlib jupyter opencv-contrib-python
 
 ![]({{ site.baseurl }}/assets/images/2018-03-18/pip-install-libraries-03.png)
 
-아래와 같이 입력하여 연습용 폴더를 하나 만들고 만든 폴더로 이동합니다. 
+이제 아래와 같이 입력하여 연습용 폴더를 하나 만들고 만든 폴더로 이동합니다. 
+
+### Jupyter notebook에서 작업하기
+
 그리고 위에서 한 것처럼 한 줄씩 입력하고 엔터키를 누릅니다.
 
 ```shell
@@ -109,3 +112,14 @@ pip install numpy matplotlib jupyter opencv-contrib-python
   <img src="{{ site.baseurl }}/assets/images/2018-03-18/jupyter-notebook-Untitled-01.png">
 </a>
 
+화면에 표시한 것처럼 안쪽 회색 영역을 클릭해봅시다. 그러면 아래와 같이 테두리 색이 옅은 파란색에서 녹색으로 변하면서 커서가 깜박입니다.
+
+<a href="{{ site.baseurl }}/assets/images/2018-03-18/jupyter-notebook-Untitled-02.png" data-lightbox="falcon9-large">
+  <img src="{{ site.baseurl }}/assets/images/2018-03-18/jupyter-notebook-Untitled-02.png">
+</a>
+
+이제 이 영역 안에 Python 코드를 입력하고 "Run" 버튼을 클릭하여 실행할 수 있습니다. 
+
+- [링크](https://github.com/danielykim-dev/reproduce-my-figures/blob/master/DKim2014-srep07370/1%20-%20%EA%B7%B8%EB%A6%BC%20%ED%8C%8C%EC%9D%BC%20%EC%9D%BD%EA%B8%B0.ipynb)를 클릭하여 제가 미리 작성해둔 코드를 확인할 수 있습니다. 
+
+- [링크](https://github.com/danielykim-dev/reproduce-my-figures/blob/master/DKim2014-srep07370/1%20-%20%EA%B7%B8%EB%A6%BC%20%ED%8C%8C%EC%9D%BC%20%EC%9D%BD%EA%B8%B0.ipynb)를 클릭하여 제가 미리 작성해둔 노트북 파일을 내려받을 수 있습니다. 내려받은 다음 `jupyter notebook`을 실행한 폴더에 넣고 클릭하면 파일을 열 수 있습니다. 위의 과정을 모두 성공적으로 마쳤고, 그림 파일도 내려받았고, 코드에서 그림 파일 경로를 맞게 지정했다면 문제 없이 실행될 것입니다.
