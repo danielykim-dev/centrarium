@@ -101,4 +101,11 @@ pip install numpy matplotlib jupyter opencv-contrib-python
   <img src="{{ site.baseurl }}/assets/images/2018-03-18/jupyter-notebook-home-01.png">
 </a>
 
+화면 오른쪽 위에 있는 "Upload" 버튼과 "New" 버튼 중에서 "New"를 클릭하면 드롭다운 메뉴에 "Python 3"가 나타납니다. 자신의 드롭다운 메뉴에 "Python 2" 나 "MRO 3.3.2"가 보이지 않더라도 이상한 것이 아니니 무시하시면 됩니다.
+
+"Python 3"를 클릭합니다. 그러면 아래와 같은 화면이 나옵니다.
+
+<a href="{{ site.baseurl }}/assets/images/2018-03-18/jupyter-notebook-Untitled-01.png" data-lightbox="falcon9-large">
+  <img src="{{ site.baseurl }}/assets/images/2018-03-18/jupyter-notebook-Untitled-01.png">
+</a>
 
