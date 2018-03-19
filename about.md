@@ -4,14 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<!--img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile"-->
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+여기는 제 [메인 블로그](https://danielykim.github.io)와는 다르게 예전에 출판했던 논문 소개와 개발 관련 내용 등을 다룹니다.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+***글쓴이가 여기에서 언급하는 내용은 소속 회사의 정책이나 업무 비밀과 관련이 없으며, 소속 회사의 방향과도 다를 수 있습니다.***
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
