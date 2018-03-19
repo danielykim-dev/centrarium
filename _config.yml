@@ -46,7 +46,7 @@ comments: true
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus: danielykim
-disqus_shortname: danielykim
+disqus_shortname: https-danielykim-dev-github-io
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
