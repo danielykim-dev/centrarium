@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "srep07370 의 Figure 4 그려보기 - 1"
+title:  "srep07370 의 Figure 4A 그려보기 - 1"
 author: Daniel Kim
 categories: Publication
 tags:	publication figure
@@ -15,8 +15,8 @@ cover:  "/assets/images/DKim2014/Fig4.jpg"
 
 위 논문의 Figure 4은 다음과 같은 순서로 그렸습니다.
 
-1. <U>그림 파일을 읽습니다.</U>
-2. [그림을 Grayscale로 변환합니다.](https://danielykim-dev.github.io/publication/2018/03/20/how-to-reproduce-figure4-of-srep07370-step2.html)
+<U>1. 그림 파일을 읽습니다.</U>
+2. [그림을 Grayscale로 변환합니다.]({{ site.baseurl }}/publication/2018/03/20/how-to-reproduce-figure4-of-srep07370-step2.html)
 3. 그림에서 각 픽셀의 Grayscale 값을 각 픽셀의 높이로 둡니다.
 4. 각 막대를 Grayscale 변환하기 전 색으로 칠합니다.
 
