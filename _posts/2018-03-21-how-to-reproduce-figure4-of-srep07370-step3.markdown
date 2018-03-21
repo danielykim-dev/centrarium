@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "srep07370 의 Figure 4 그려보기 - 2"
+title:  "srep07370 의 Figure 4 그려보기 - 3"
 author: Daniel Kim
 categories: Publication
 tags:	publication figure
