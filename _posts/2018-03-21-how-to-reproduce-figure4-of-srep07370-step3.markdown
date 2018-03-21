@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "srep07370 의 Figure 4A 그려보기 - 2"
+title:  "srep07370 의 Figure 4 그려보기 - 2"
 author: Daniel Kim
 categories: Publication
 tags:	publication figure
@@ -16,22 +16,24 @@ cover:  "/assets/images/DKim2014/Fig4.jpg"
 위 논문의 Figure 4A는 다음과 같은 순서로 그렸습니다.
 
 1. [그림 파일을 읽습니다.]({{ site.baseurl }}/publication/2018/03/18/how-to-reproduce-figure4-of-srep07370-step1.html)
-2. <U>그림을 Grayscale로 변환합니다.</U>
-3. 그림에서 각 픽셀의 Grayscale 값을 각 픽셀의 높이로 둡니다.
+2. [그림을 Grayscale로 변환합니다.]({{ site.baseurl }}/publication/2018/03/20/how-to-reproduce-figure4-of-srep07370-step2.html)
+3. <U>그림에서 각 픽셀의 Grayscale 값을 각 픽셀의 높이로 둡니다.</U>
 4. 각 막대를 Grayscale 변환하기 전 색으로 칠합니다.
 
-이 글에서는 2번 단계를 구체적으로 다룹니다. 1번은 이미 다뤘고 나머지는 다음 글에서 다루겠습니다.
+이 글에서는 3번 단계를 구체적으로 다룹니다. 1번과 2번은 이미 다루었고 4번은 다음 글에서 다루겠습니다.
 
 
-## 2. 그림을 Grayscale로 변환합니다.
-1번 단계에서 이어지는 내용입니다.
+## 3. 그림에서 각 픽셀의 Grayscale 값을 각 픽셀의 높이로 둡니다.
+2번 단계에서 이어지는 내용입니다.
 
-이번 과정은 간단하기 때문에 아래의 Jupyter notebook 링크로 대체합니다.
+링크에 있는 코드를 참조하면서 설명하겠습니다.
 
-- [링크](https://github.com/danielykim-dev/reproduce-my-figures/blob/master/DKim2014-srep07370/2%20-%20%EA%B7%B8%EB%A6%BC%EC%9D%84%20grayscale%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.ipynb)를 클릭하여 제가 미리 작성해둔 코드를 확인할 수 있습니다. 
+- [링크](https://github.com/danielykim-dev/reproduce-my-figures/blob/master/DKim2014-srep07370/3%20-%20%EA%B7%B8%EB%A6%BC%EC%97%90%EC%84%9C%20%EA%B0%81%20%ED%94%BD%EC%85%80%EC%9D%98%20Grayscale%20%EA%B0%92%EC%9D%84%20%EA%B0%81%20%ED%94%BD%EC%85%80%EC%9D%98%20%EB%86%92%EC%9D%B4%EB%A1%9C%20%EB%91%90%EA%B8%B0.ipynb)를 클릭하여 제가 미리 작성해둔 코드를 확인할 수 있습니다. 
 
-위의 링크에 있는 Jupyter notebook 내용을 요약하면 
+위의 링크 내용을 다음과 같이 요약할 수 있습니다.
 - 그림을 읽습니다.
-- 그림을 BGR에서 RGB로 바꿉니다.
-- 그림을 RGB에서 Grayscale로 바꿉니다.
+- 그림을 BGR에서 RGB로 바꿉니다. (그림1)
+- 그림을 RGB에서 Grayscale로 바꿉니다. (그림2)
+- Gnuplot으로 3차원 표면을 그리기 위해 그림2의 모든 위치의 Grayscale 값과 그림1의 모든 위치의 RGB값을 파일로 씁니다.
+
 
