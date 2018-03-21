@@ -17,7 +17,7 @@ cover:  "/assets/images/DKim2014/Fig4.jpg"
 
 1. [그림 파일을 읽습니다.]({{ site.baseurl }}/publication/2018/03/18/how-to-reproduce-figure4-of-srep07370-step1.html)
 2. <U>그림을 Grayscale로 변환합니다.</U>
-3. 그림에서 각 픽셀의 Grayscale 값을 각 픽셀의 높이로 둡니다.
+3. [그림에서 각 픽셀의 Grayscale 값을 각 픽셀의 높이로 둡니다.]({{ site.baseurl }}/publication/2018/03/21/how-to-reproduce-figure4-of-srep07370-step3.html)
 4. 각 막대를 Grayscale 변환하기 전 색으로 칠합니다.
 
 이 글에서는 2번 단계를 구체적으로 다룹니다. 1번은 이미 다뤘고 나머지는 다음 글에서 다루겠습니다.
