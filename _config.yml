@@ -13,8 +13,7 @@ title: Dev Blog - Daniel Y Kim
 subtitle: ""
 email: daniel.youngho.kim@gmail.com
 name: Dev Blog - Daniel Y Kim
-description: >
-  Dev Blog - Daniel Y Kim
+description: Dev Blog - Daniel Y Kim
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -29,6 +28,7 @@ paginate: 5
 paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "solarized-dark"
+
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
