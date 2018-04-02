@@ -116,5 +116,5 @@ Full Installation 옵션을 선택합니다. 그리고 Next > 를 클릭합니�
 그러면 아래와 같이 그림을 확인할 수 있습니다. 
 ![Gnuplot setup - information]({{ site.baseurl }}/assets/images/2018-03-31/gnuplot-show-image-01.png)
   
-그림이 보이기까지 수십초 걸립니다. 작은 그림으로 작업했으면 Gnuplot 창에서 마우스를 드래그해서 보는 각도를 변경할 수도 있습니다.
+그림이 보이기까지 수십초 걸립니다. 작은 그림으로 작업하면 Gnuplot 창에서 마우스를 드래그해서 보는 각도를 훨씬 빠르게 변경할 수 있습니다.
 
