@@ -11,7 +11,9 @@ cover:  "/assets/images/DKim2014/Fig4.jpg"
 
 위의 논문은 제 대표 논문입니다. 출판되자마자 [*Nature.com*](https://www.nature.com/) 메인에 소개되었고 2014년 12월 셋째주부터 2015년 1월 둘째주까지 [*Nature.com*](https://www.nature.com/) 에서 사람들이 가장 많이 본 논문이었습니다. [*Nature Research Highlight*](http://www.natureasia.com/en/research/highlight/9640)와 [*PNAS*](http://www.pnas.org/content/112/25/7619.full) 소개글을 포함한 해외 언론 5건, 국내 TV 5건, 국내 인터넷 뉴스 16건 등에서도 소개된 연구입니다. [여기](http://danielykim.me/papers/DKim2014/)에서 보도되었던 모든 자료를 확인할 수 있습니다.
 
-최근에 위 논문의 Figure 4A를 어떻게 그리는지 질문을 받았습니다. 그리는 방법을 할 수 있는 한 쉽게 설명해보겠습니다.
+최근에 위 논문의 Figure 4A를 어떻게 그리는지 질문을 받았습니다.
+
+그래서 그리는 방법을 할 수 있는 한 쉽게 설명해보려고 합니다.
 
 위 논문의 Figure 4A는 다음과 같은 순서로 그렸습니다.
 
