@@ -46,13 +46,16 @@ You may download [Gnuplot](http://www.gnuplot.info/) [here](https://sourceforge.
 Please install it.
 
 
-## 3. Draw 
-Download `schloss.txt` at [here](https://github.com/danielykim-dev/reproduce-my-figures/blob/master/DKim2014-srep07370/schloss.txt).
+## 3. Draw
+You can draw your own tsv file with the following Gnuplot script.
+
+### Example
+As an example, download `schloss.txt` at [here](https://github.com/danielykim-dev/reproduce-my-figures/blob/master/DKim2014-srep07370/schloss.txt).
 
 Copy and paste the below code into a file. Its extension should be `plt`.
 
 <script src="https://gist.github.com/danielykim/ede297311b4da18ed494475b63a89e9c.js"></script>
 
-Now, let's double click the `plt` file. Then you may see the figure. It may take over 10 seconds.
+Now, let's double click the `plt` file. Then the figure will be shown. It may take over 10 seconds.
 
-
+Replace `schloss.txt` with your own file path, and check your figure.
