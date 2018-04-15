@@ -9,7 +9,7 @@ cover:  "/assets/images/DKim2014/Fig1.jpg"
 
 [Daniel Kim *et al.* *Sci. Rep.* **4**:7370 (2014).](https://www.nature.com/articles/srep07370)
 
-This is one of my representative papers. It was posted on [*Nature.com*](https://www.nature.com/), being selected as a [Nature Research Highlight](http://www.natureasia.com/en/research/highlight/9640) (also held the first rank of the most viewed research highlight on Nature.com from 14 December 2014 to 14 January 2015). 
+This is one of my representative papers. It was posted on [*Nature.com*](https://www.nature.com/), being selected as a [Nature Research Highlight](http://www.natureasia.com/en/research/highlight/9640) (also held the first rank of the most viewed research highlight on Nature.com from 14 December 2014 to 14 January 2015). [Full list of media press.](http://danielykim.me/papers/DKim2014/)
 
 Here I introduce the way to plot Figure 1A of the paper in detail.
 
