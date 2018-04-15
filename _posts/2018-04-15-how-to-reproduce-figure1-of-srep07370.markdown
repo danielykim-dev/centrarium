@@ -56,6 +56,12 @@ Copy and paste the below code into a file. Its extension should be `plt`.
 
 <script src="https://gist.github.com/danielykim/ede297311b4da18ed494475b63a89e9c.js"></script>
 
+<style>
+.gist .blob-code {
+  padding: 1px 20px !important;
+}
+</style>
+
 Now, let's double click the `plt` file. Then the figure will be shown. It may take over 10 seconds.
 
 Replace `schloss.txt` with your own file path, and check your figure.
